@@ -1,2 +1,4 @@
-# 2024
-Um planejamento educacional para mim em 2024.
+<h3 align="center">2024</h3>
+<p align="center">
+  "Só a educação liberta" - Epicteto 
+</p>
