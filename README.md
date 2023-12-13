@@ -19,4 +19,7 @@ Livro | Páginas | Pré-requisitos
 [Fundamentos de matemática elementar - Volume 7: Geometria analítica](https://www.amazon.com.br/Fundamentos-Matem%C3%A1tica-Elementar-Iezzi-Gelson/dp/8535717544/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Fundamentos+da+matem%C3%A1tica+elementar+7&qid=1702469956&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9) | 320 | Nenhum
 
 ### Física
+
+Livro | Páginas | Pré-requisitos
+:-- | :--: | :--:
 [Manual Compacto da Física do Ensino Médio](https://www.leonardoportal.com/p/manuais-compactos-rideel-pdf.html) | 428 | Nenhum
