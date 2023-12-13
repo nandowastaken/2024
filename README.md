@@ -23,3 +23,11 @@ Livro | Páginas | Pré-requisitos
 Livro | Páginas | Pré-requisitos
 :-- | :--: | :--:
 [Manual Compacto da Física do Ensino Médio](https://www.leonardoportal.com/p/manuais-compactos-rideel-pdf.html) | 428 | Nenhum
+
+
+### Programação
+
+Livro | Páginas | Pré-requisitos
+:-- | :--: | :--:
+[Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos](https://www.amazon.com.br/dp/8575225634/?coliid=I30KA7WUU1JAOO&colid=1Y54IB3R39F6R&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im) | 264 | Nenhum
+[Cracking the Code Interview](https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2M3RCQBKC72B5&keywords=cracking+the+coding+interview&qid=1702470201&sprefix=cracking+the+coding+intervi%2Caps%2C265&sr=8-1&ufe=app_do%3Aamzn1.fos.6a09f7ec-d911-4889-ad70-de8dd83c8a74) | 708 | Nenhum
